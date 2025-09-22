@@ -5,7 +5,7 @@ on:
 
 env:
   REPO_URL: https://github.com/immortalwrt/immortalwrt
-  REPO_BRANCH: openwrt-24.10
+  REPO_BRANCH: openwrt-23.05
   CONFIG_FILE: N1-IMM/.config
   DIY_SH: N1-IMM/diy.sh
   FILES: N1-IMM/files
